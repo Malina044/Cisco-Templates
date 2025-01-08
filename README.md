@@ -1,2 +1,2 @@
 # Cisco-Templates
-Шпаргалки циско
+Шпаргалки Cisco
