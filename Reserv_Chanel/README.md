@@ -14,7 +14,10 @@ _____________________________________
 
 <h2>LACP</h2>
 
-<i>LACP - Link Aggregation Control Protocol
-PagP(Cisco)</i>
 
+<p>
+  <i>LACP - Link Aggregation Control Protocol
+
+    PagP(Cisco)</i>
+</p>
 
