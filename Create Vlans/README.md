@@ -1,5 +1,7 @@
 #Create Vlans
 
+<h2>Accsess Port</h2>
+
 Проверка существующих VLAN
 
 
@@ -59,7 +61,7 @@ Switch(config-if)#switchport access vlan 10
 
 
 
-
+<h2>Trunk Port</h2>
 
 
 
