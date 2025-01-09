@@ -58,11 +58,15 @@ Switch(config-if)#    switchport mode access
 
 Switch(config-if)#switchport access vlan 10
 
-
+<b> Save   SW1#  write memory</b>
 
 
 <h2>Trunk Port</h2>
 
+SW1(config)#    int gig0/1
 
+SW1(config-if)#    switchport mode trunk
+
+SW1(config-if)#    switchport trunk allowed vlan 10,20
 
 
