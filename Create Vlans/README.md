@@ -4,7 +4,7 @@
 
 
 Switch#show vlan
-
+<pre>
 VLAN Name                             Status    Ports
 ---- -------------------------------- --------- -------------------------------
 1    default                          active    Fa0/1, Fa0/2, Fa0/3, Fa0/4
@@ -38,6 +38,8 @@ Primary Secondary Type              Ports
 
 ______________________________________________________________________________
 
+</pre>
+  
 Switch>  enable
 
 Switch#    configure terminal
