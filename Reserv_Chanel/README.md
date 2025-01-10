@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/2598305f-7a5d-4d48-a5a3-9fe837ade532)
 
-
+OSP protool срабатывает втоматически
 
 P.S. Инициализаия будет 30-50 секун
 _____________________________________
@@ -15,6 +15,7 @@ _____________________________________
 
 <h2>EtherChanel</h2>
 
+Статическое агрегирование каналов
 
 ![image](https://github.com/user-attachments/assets/b5595a6b-2a1f-48d8-ae4f-70cee32541df)
 
