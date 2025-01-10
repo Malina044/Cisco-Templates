@@ -53,9 +53,8 @@ P.S. Инициализаия будет 30-50 секун
 
 В разработке.....
 
-<iframe width="1903" height="742" src="https://youtu.be/x8lR7DCrhtI?list=PLcDkQ2Au8aVNYsqGsxRQxYyQijILa94T9&t=895" title="7.Видео уроки Cisco Packet Tracer. Курс молодого бойца. EtherChannel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+<iframe width="1903" height="742" src="https://www.youtube.com/embed/x8lR7DCrhtI?list=PLcDkQ2Au8aVNYsqGsxRQxYyQijILa94T9" title="7.Видео уроки Cisco Packet Tracer. Курс молодого бойца. EtherChannel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
