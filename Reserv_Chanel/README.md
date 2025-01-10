@@ -4,7 +4,8 @@
 
 Соеденить три комутатора  
 
-![image](https://github.com/user-attachments/assets/cf39c005-a1f1-48c3-9058-c7264a8ec4f8)
+![image](https://github.com/user-attachments/assets/2598305f-7a5d-4d48-a5a3-9fe837ade532)
+
 
 
 P.S. Инициализаия будет 30-50 секун
